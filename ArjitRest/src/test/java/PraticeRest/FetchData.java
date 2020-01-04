@@ -18,5 +18,6 @@ public class FetchData {
 		
 		System.out.println(obj);
 		System.out.println("Hello");
+		System.out.println("Hello All");
 	}
 }
